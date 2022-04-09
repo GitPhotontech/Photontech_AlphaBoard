@@ -7,7 +7,7 @@
   
   Bu örnek kod PHOTONTECH tarafından kamuya sunulmuştur.
   
-  https://github.com/PhotonTechnologyCodeSpace/Alpha-Board
+  https://github.com/GitPhotontech/Photontech_AlphaBoard
  
 */
 
